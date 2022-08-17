@@ -1,4 +1,4 @@
-title: BePower
+title: Be Power
 description: A brief wiki
 url: "https://bepower.github.io"
 
@@ -45,7 +45,7 @@ mermaid:
 
 # Aux links for the upper right navigation
 aux_links:
-  "BePower on GitHub":
+  "Be Power on GitHub":
     - "//github.com/BePower"
 
 # Makes Aux links open in a new tab. Default is false
