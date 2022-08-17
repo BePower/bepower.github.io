@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Be Charge as MSP
+nav_order: 2
 has_children: true
 parent: Roaming
 permalink: /docs/roaming/msp
