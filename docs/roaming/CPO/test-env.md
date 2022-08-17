@@ -2,12 +2,12 @@
 layout: default
 title: Test Environment
 nav_order: 1
-parent: BeCharge as CPO
+parent: Be Charge as CPO
 grand_parent: Roaming
 permalink: /docs/roaming/cpo/test
 ---
 
-# BeCharge as CPO
+# Be Charge as CPO
 {: .no_toc }
 
 Test Environment
@@ -23,7 +23,7 @@ Test Environment
 
 ## OCPI
 
-BeCharge supports OCPI integration for connection to other MSPs.
+Be Charge supports OCPI integration for connection to other MSPs.
 
 ### CPO Versions URL
 

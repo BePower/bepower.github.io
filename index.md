@@ -4,8 +4,8 @@ title: Home
 nav_order: 1
 ---
 
-# BeCharge Wiki
+# Be Charge Wiki
 
-Welcome to the BeCharge wiki.
+Welcome to the Be Charge wiki.
 
 Please feel free to navigate the menu

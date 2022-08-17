@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BeCharge as MSP
+title: Be Charge as MSP
 has_children: true
 parent: Roaming
 permalink: /docs/roaming/msp
@@ -8,5 +8,5 @@ permalink: /docs/roaming/msp
 
 # {{ page.title }}
 
-How to behave when BeCharge is the MSP
+How to behave when Be Charge is the MSP
 {: .fs-6 .fw-300 }

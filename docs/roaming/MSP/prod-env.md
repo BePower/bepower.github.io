@@ -2,12 +2,12 @@
 layout: default
 title: Production Environment
 nav_order: 2
-parent: BeCharge as MSP
+parent: Be Charge as MSP
 grand_parent: Roaming
 permalink: /docs/roaming/msp/prod
 ---
 
-# BeCharge as MSP
+# Be Charge as MSP
 {: .no_toc }
 
 Production Environment
@@ -23,7 +23,7 @@ Production Environment
 
 ## OCPI
 
-BeCharge supports OCPI integration for connection to other CPOs.
+Be Charge supports OCPI integration for connection to other CPOs.
 
 ### CPO Versions URL
 
