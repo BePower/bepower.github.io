@@ -21,7 +21,12 @@ Production Environment
 
 ---
 
-## OCPI
+## Details
+
+- `country_code`: **IT**
+- `party_id`: **BEC**
+
+## Peer to peer (OCPI)
 
 Be Charge supports OCPI integration for connection to other CPOs.
 
@@ -73,3 +78,11 @@ https://ocpi.msp.bepower.io/ocpi/emsp/versions
 | Commands    | **MSP** &rarr; CPO | `POST /commands/START_SESSION`     | **Yes**    |                                            |
 | Commands    | **MSP** &rarr; CPO | `POST /commands/STOP_SESSION`      | **Yes**    |                                            |
 | Commands    | **MSP** &rarr; CPO | `POST /commands/UNLOCK_CONNECTOR`  | No         |                                            |
+
+## Hubject (OICP)
+
+### Supported Versions
+
+| Version   | Status    |
+|:----------|:----------|
+| OICP v2.3 | Supported |
