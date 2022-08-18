@@ -30,12 +30,6 @@ Production Environment
 
 Be Charge supports OCPI integration for connection to other MSPs.
 
-### CPO Versions URL
-
-```
-https://ocpi.cpo.bepower.io/ocpi/cpo/versions
-```
-
 ### Supported Versions
 
 | Version   | Status    |
