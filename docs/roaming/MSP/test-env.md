@@ -30,6 +30,12 @@ Test Environment
 
 Be Charge supports OCPI integration for connection to other CPOs.
 
+### CPO Versions URL
+
+```
+Sent during handshake phase, online
+```
+
 ### Supported Versions
 
 | Version   | Status    |
